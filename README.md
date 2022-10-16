@@ -1,4 +1,9 @@
 ### Hi there 👋
+Enthusiastic, hardworking, team player, problem solver, and detailed-oriented professional looking to utilize technical knowledge in a software developer position that will strengthen and enhance my professional growth as a developer. 
+
+
+
+I'm currently working on Computer Science Research Intern, SCLabs, Boston, MA     
 
 <!--
 **BostonCoder1/BostonCoder1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
